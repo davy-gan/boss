@@ -11,7 +11,7 @@
     "browser-cookies": "^1.2.0",
     "cookie-parser": "^1.4.3",
     "es6-promise": "^4.2.5",
-    "mongoose": "^4.13.7",
+    "mongoose": "^5.7.5",
     "npm": "^6.4.1",
     "promise": "8.0.1",
     "prop-types": "^15.6.1",
